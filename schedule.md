@@ -20,10 +20,9 @@
 * HTML Box Model
 
 ##### [Week 4]
-* Design Thinking Studio + Presentations
+* Net.Art Presentations
 
 ##### [Week 5
-* Net.Art
 * Responsive Web 
   * Flex Display
   * Grid Display
