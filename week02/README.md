@@ -6,10 +6,14 @@
 * rm - delete item **FOREVER**
 * mkdir - create a new directory
   * mkdir webDev
-* touch - make a file
-  * touch index.html
 * mv - move file
   * mv index.html webDev
+* touch - make a file only works on macs :(
+  * touch index.html
+  * cat > index.html
+  * echo > index.html
+  * echo "here is a line of txt" > theTxt.txt
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
 ###### Basic Web Info
 * [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
