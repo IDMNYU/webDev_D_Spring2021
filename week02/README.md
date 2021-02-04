@@ -1,20 +1,11 @@
-###### [Unix Commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
-* cd - change directory
-  * cd .. - go back a level
-* pwd - present working directory (where am i!)
-* ls - list items in the directory
-* rm - delete item **FOREVER**
-* mkdir - create a new directory
-  * mkdir webDev
-* mv - move file
-  * mv index.html webDev
-* touch - make a file only works on macs :(
-  * touch index.html
-  * cat > index.html
-  * echo > index.html
-  * echo "here is a line of txt" > theTxt.txt
-* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
+#### Resources
+##### Git
+* [Installing Git](https://git-scm.com/downloads)
+* [Creating SSH Key](gitSteps.md)
+* [Github Pages](https://pages.github.com/)
 
+#### File Paths continued
+* [Absolute vs. Relative](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
 ###### Basic Web Info
 * [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
 
