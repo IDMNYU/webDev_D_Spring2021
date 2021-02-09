@@ -42,7 +42,7 @@
 * [Text Input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 * [Checkbox](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox)
 * [Select](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
-* [Radio Buttons](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+* [Radio Buttons](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 /radio)
 * [Menu List](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/menulist)
 * [Option](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option)
