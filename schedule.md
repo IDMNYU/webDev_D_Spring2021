@@ -7,7 +7,7 @@
 * Intro to GitHub
 
 
-##### [Week 2 ]
+##### [Week 2]
 * Intro to HTML
 * Discuss Ways of Seeing
 * Intro to Unix + the Command Line

@@ -9,8 +9,9 @@ The follow is merely adpated language from the above documentation. If you want 
 This authenticates your connection to the server.
 
 Generate an SSH key with
-``` ssh-keygen -t rsa -b 4096 -C "yourEmailHere@theOneYouUsedForGithub.com" ```
+``` ssh-keygen -t ed25519 -C "yourEmailHere@theOneYouUsedForGithub.com" ```
 
+![older command](legacyCommand.png)
 You will receive prompts to rename, add passwords, etc... as part of the keygen process. **Don't add any inputs to those prompts – just hit enter to use the default (correct) inputs.**
 
 See: https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
