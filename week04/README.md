@@ -8,7 +8,7 @@ You'll use a Python or Node.js module that creates a server using an open TCP po
 
 ##### [Chrome Dev Tools Console Ref](https://developers.google.com/web/tools/chrome-devtools/console/reference)
 
-![boxModel.png]
+![theBoxModel](boxModel.png)
 #### [the Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
 * [MDN on padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
