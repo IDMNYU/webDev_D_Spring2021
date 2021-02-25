@@ -16,8 +16,10 @@ You'll use a Python or Node.js module that creates a server using an open TCP po
 * [MDN on margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
 
 ##### CSS Resources
+* [MDN CSS Property Index](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [MDN positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+* [MDN layout](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#layout)
 * [cssreference.io - CC Property Reference](https://cssreference.io/) - Free visual guide 
 * [Display Property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
-
 
 
