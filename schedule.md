@@ -20,17 +20,18 @@
 * HTML Box Model
 * Intro to CSS
 
-##### [Week 4]
+##### [Week 4](https://github.com/IDMNYU/webDev_D_Spring2021/wiki/Week-04)
 * CSS Positioning
+* Interactive Portraits
+
+##### [Week 5](ttps://github.com/IDMNYU/webDev_D_Spring2021/wiki/Week-05)
 * Responsive Web 
   * Flex Display
   * Grid Display
-* Interactive Self Portraits
 
-##### [Week 5]
+
+##### [Week 6](ttps://github.com/IDMNYU/webDev_D_Spring2021/wiki/Week-06)
 * Net.Art Pair Programming Presentations
-
-##### [Week 6]
 * Midterm Project Pitches
 
 ##### [Week 7]

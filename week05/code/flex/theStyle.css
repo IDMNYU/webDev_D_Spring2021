@@ -4,6 +4,7 @@ body{
  color: white;
 }
 
+
 /* this is a media query: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries */
 @media screen and (max-width: 500px){
 	body {

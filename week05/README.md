@@ -1,3 +1,12 @@
+##### CSS Units of Measurement
+* [w3 Schools CSS units](https://www.w3schools.com/cssref/css_units.asp)
+* [MDN CSS units, lengths](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+* [A Pixel is not a Pixel](https://www.quirksmode.org/blog/archives/2010/04/a_pixel_is_not.html)
+
+##### Positioning
+* [MDN Getting STarted](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+* [MDN Float Tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+
 ##### Flexbox Display
 * [MDN Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 * [CSS-Trick on Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
