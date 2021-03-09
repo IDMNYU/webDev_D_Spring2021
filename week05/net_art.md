@@ -13,7 +13,7 @@ With a partner, students will choose 1 artwork or artist from either the [Rhizom
 * Remember this is a presentation to the class. You'll share your screen and talk to us about the work. We should hear from both people in the partnership. 
 
 #### Assignment for Thursday:
-* Pick three works you would be interested in presenting and post your list of top three picks to Discord serverA by 8pm EST Tuesday. Rebecca will pair folks up from there. If you would like to work with someone in particular - reach out to them and then dm or email me. 
+* Pick three works you would be interested in presenting and post your list of top three picks to Discord serverD by 4pm EST Wednesday. Rebecca will pair folks up from there. If you would like to work with someone in particular - reach out to them and then dm or email me. 
 * Be prepared to meet with your partner over Zoom. Look at the work together and talk about the expirence of looking at it. Make notes - this conversation will lead to your talking points in the presentation. Take screen shots and/or recordings of yourself interacting with the work. If you each have a different experience of the piece - great! Show us and talk about the differences. Not simply "i liked it, s/he didn't" but actually what you each materially experienced on your different screens. 
 
 #### Presentations due during class Tuesday March 9
